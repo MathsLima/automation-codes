@@ -1,2 +1,2 @@
 # machine-learning-and-ai
-machine learning and artificial intelligence codes
+Machine learning and artificial intelligence codes using python
